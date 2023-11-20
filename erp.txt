@@ -1,0 +1,7 @@
+Encoding=UTF-8
+Name=Postman
+Exec=/path/to/Downloads/Postman/app/Postman %U
+Icon=/path/to/Downloads/Postman/app/resources/app/assets/icon.png
+Terminal=false
+Type=Application
+Categories=Development;
