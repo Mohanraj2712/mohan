@@ -1,0 +1,28 @@
+git init
+git status
+git add erp.txt
+git commit -m "my first commit"
+git config --global user.name "Mohanraj2712"
+git config user.name
+git commit -m "first commitby mohanraj"
+git remote add origin https://github.com/Mohanraj2712/mohan.git
+git push -u origin master
+git push -u origin main
+git commit -m "First Commit"
+git branch -M Main
+git remote add origin https://github.com/Mohanraj2712/mohan.git
+git push -u origin main
+git branch -b
+git checkout -b master
+git push origin master
+git checkout -b main
+git push origin main
+git branch -m main
+git push origin main
+git status
+git add erp.txt
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Mohanraj2712/mohan.git
+git push -u origin main
+
